@@ -1,2 +1,2 @@
-#!/bin/bash
-python3 bullet.py
+#!/usr/local/bin/python3
+python3 /Users/davidliu/Desktop/Bullet-Lines/bullet.py 

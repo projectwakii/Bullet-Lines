@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import pyperclip
 
 # Text must be COPIED into clipboard already. Will be using Keyboard
